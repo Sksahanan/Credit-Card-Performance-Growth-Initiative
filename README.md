@@ -3,6 +3,9 @@
   * Develop a comprehensive weekly credit card dashboard that provides real-time insights into key performance metrics and trends.
   * Enable stakeholders to monitor and analyze credit card operations effectively. 
 
+**Dashboard Link**
+[https://knowledgelavenir-my.sharepoint.com/:u:/g/personal/2892_mayamoisahana_lavenir_cc/EWMLle7ixERPgdPRy-TtHHAB9EMTtdbgXFdcDaZLXwypwg?e=Rm6upW](https://knowledgelavenir-my.sharepoint.com/:u:/g/personal/2892_mayamoisahana_lavenir_cc/EWMLle7ixERPgdPRy-TtHHAB9EMTtdbgXFdcDaZLXwypwg?e=gM36PT)
+
 **Approach:** 
   * Prepare CSV files with the sample data.
   * Create necessary tables in the SQL database.
@@ -37,3 +40,7 @@ Provide a comprehensive analysis of the sample data. Develop an intuitive and in
 Note: Statistical data like highest revenue, top spending categories etc. are retained for all insights and recommendations 
 
  
+DashBoard Preview
+![Credit-Card_transaction_Report](https://github.com/Sksahanan/Credit-Card-Performance-Growth-Initiative/assets/171436562/22caa57d-e4d4-4936-bbec-2cc8a0c58b30)
+![Credit-Card_Customer_Report](https://github.com/Sksahanan/Credit-Card-Performance-Growth-Initiative/assets/171436562/e5e37964-401d-4487-b13e-4e506e92b9d7)
+![Credit-Card_Spending_byState](https://github.com/Sksahanan/Credit-Card-Performance-Growth-Initiative/assets/171436562/ca1f8d2a-001f-45b7-88e4-ea644e6942e1)
